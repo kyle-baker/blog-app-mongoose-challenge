@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: Q5oiWpaQcvMoslw1UX8ChbnuObhZFqSursvZVtJPlhcB/9C/SrInn2BNL+HZ3hzoXUcO8EYTW825PmlvPWxbx+my3mRuEBd0hHsiA7USINXIG/EQeL3dlosVfLe1OGoiOvoHjih5qRcvADPLCuQSz+bQVj3UTukU5A9gWRWHeXF5J5/jXNX9JrmbYUiT8nHCDi48aQwDj63GnKsfAWSl9RAXqP6lj+/wu/+X/XgNBQvhDOBExagyXAYzI1KUBjtT6yuD8pL4JeWTwrSTlYz00k1fLtffAO2i4/dVF3//nIs2UTHPVVXpGylYMeVfRNWdU2l5kkWidL8n7mECMfHx8xcWlqlExiNEAHLGL8I2d8py5IGuB9f+ixb+kMrJQLFRBAAcD6eT1x6ZbF+YTfUnASv+/MrSm64fGx/5XoMOk22S2stb3RygW1qTS25qGTPj5aFpd+PRh1Q1I1r88S+X2xVvpg2wI9PFCaBrV8wd8NhLNLliC8qQYie5dJ23Rbv1cH4QbXoVDj567GzARVKFCsZVVubfJD9xR6wp4jD2L59/DDj/8CQBrYama2GrEc/yDMcwkrIFJYorOAHjZDu0IFoHAHbU6rxY6mujK0SbkYwVgbLUWYP9JX2NW89IGUTasjqpwfFkj/tCmosQG/w9HgMXtYoEgNrBiNjMHDOLsLU=
-  app: https://tranquil-sierra-18043.herokuapp.com/
+  app: tranquil-sierra-18043
   on:
     repo: kyle-baker/blog-app-mongoose-challenge
